@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: lidar_slam_robot
+Version: 0.0.1
+Summary: LiDAR SLAM Robot using ROS2
+Maintainer: vboxuser
+Maintainer-email: your@email.com
+License: Apache-2.0
+Requires-Dist: setuptools
+Dynamic: license
+Dynamic: maintainer
+Dynamic: maintainer-email
+Dynamic: requires-dist
+Dynamic: summary
