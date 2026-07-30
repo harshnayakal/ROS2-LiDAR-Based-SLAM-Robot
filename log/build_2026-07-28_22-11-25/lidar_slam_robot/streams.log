@@ -1,0 +1,22 @@
+[2.768s] Invoking command in '/home/vboxuser/lidar_slam_ws/build/lidar_slam_robot': PYTHONPATH=/home/vboxuser/lidar_slam_ws/build/lidar_slam_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vboxuser/lidar_slam_ws/build/lidar_slam_robot/build --no-deps symlink_data --force
+[3.015s] /home/vboxuser/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[3.015s]   warnings.warn(msg)
+[3.218s] running develop
+[3.473s] running egg_info
+[3.496s] writing lidar_slam_robot.egg-info/PKG-INFO
+[3.503s] writing dependency_links to lidar_slam_robot.egg-info/dependency_links.txt
+[3.504s] writing entry points to lidar_slam_robot.egg-info/entry_points.txt
+[3.504s] writing requirements to lidar_slam_robot.egg-info/requires.txt
+[3.504s] writing top-level names to lidar_slam_robot.egg-info/top_level.txt
+[3.554s] reading manifest file 'lidar_slam_robot.egg-info/SOURCES.txt'
+[3.559s] writing manifest file 'lidar_slam_robot.egg-info/SOURCES.txt'
+[3.580s] running build_ext
+[3.581s] Creating /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/lib/python3.10/site-packages/lidar-slam-robot.egg-link (link to .)
+[3.582s] Installing teleop_controller script to /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/lib/lidar_slam_robot
+[3.582s] 
+[3.582s] Installed /home/vboxuser/lidar_slam_ws/build/lidar_slam_robot
+[3.583s] running symlink_data
+[3.584s] symbolically linking /home/vboxuser/lidar_slam_ws/build/lidar_slam_robot/resource/lidar_slam_robot -> /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/share/ament_index/resource_index/packages
+[3.585s] symbolically linking /home/vboxuser/lidar_slam_ws/build/lidar_slam_robot/package.xml -> /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/share/lidar_slam_robot
+[3.585s] symbolically linking /home/vboxuser/lidar_slam_ws/build/lidar_slam_robot/launch/slam.launch.py -> /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/share/lidar_slam_robot/launch
+[3.633s] Invoked command in '/home/vboxuser/lidar_slam_ws/build/lidar_slam_robot' returned '0': PYTHONPATH=/home/vboxuser/lidar_slam_ws/build/lidar_slam_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vboxuser/lidar_slam_ws/build/lidar_slam_robot/build --no-deps symlink_data --force

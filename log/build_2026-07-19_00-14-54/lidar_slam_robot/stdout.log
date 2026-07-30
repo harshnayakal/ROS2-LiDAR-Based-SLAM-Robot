@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/lidar_slam_robot/lidar_slam_robot.egg-info
+writing ../../build/lidar_slam_robot/lidar_slam_robot.egg-info/PKG-INFO
+writing dependency_links to ../../build/lidar_slam_robot/lidar_slam_robot.egg-info/dependency_links.txt
+writing entry points to ../../build/lidar_slam_robot/lidar_slam_robot.egg-info/entry_points.txt
+writing requirements to ../../build/lidar_slam_robot/lidar_slam_robot.egg-info/requires.txt
+writing top-level names to ../../build/lidar_slam_robot/lidar_slam_robot.egg-info/top_level.txt
+writing manifest file '../../build/lidar_slam_robot/lidar_slam_robot.egg-info/SOURCES.txt'
+reading manifest file '../../build/lidar_slam_robot/lidar_slam_robot.egg-info/SOURCES.txt'
+writing manifest file '../../build/lidar_slam_robot/lidar_slam_robot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/vboxuser/lidar_slam_ws/build/lidar_slam_robot/build
+creating /home/vboxuser/lidar_slam_ws/build/lidar_slam_robot/build/lib
+creating /home/vboxuser/lidar_slam_ws/build/lidar_slam_robot/build/lib/lidar_slam_robot
+copying lidar_slam_robot/teleop_controller.py -> /home/vboxuser/lidar_slam_ws/build/lidar_slam_robot/build/lib/lidar_slam_robot
+copying lidar_slam_robot/__init__.py -> /home/vboxuser/lidar_slam_ws/build/lidar_slam_robot/build/lib/lidar_slam_robot
+running install
+running install_lib
+creating /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/lib/python3.10/site-packages/lidar_slam_robot
+copying /home/vboxuser/lidar_slam_ws/build/lidar_slam_robot/build/lib/lidar_slam_robot/teleop_controller.py -> /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/lib/python3.10/site-packages/lidar_slam_robot
+copying /home/vboxuser/lidar_slam_ws/build/lidar_slam_robot/build/lib/lidar_slam_robot/__init__.py -> /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/lib/python3.10/site-packages/lidar_slam_robot
+byte-compiling /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/lib/python3.10/site-packages/lidar_slam_robot/teleop_controller.py to teleop_controller.cpython-310.pyc
+byte-compiling /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/lib/python3.10/site-packages/lidar_slam_robot/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/share/ament_index
+creating /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/share/ament_index/resource_index
+creating /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/share/ament_index/resource_index/packages
+copying resource/lidar_slam_robot -> /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/share/ament_index/resource_index/packages
+copying package.xml -> /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/share/lidar_slam_robot
+running install_egg_info
+Copying ../../build/lidar_slam_robot/lidar_slam_robot.egg-info to /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/lib/python3.10/site-packages/lidar_slam_robot-0.0.1-py3.10.egg-info
+running install_scripts
+Installing teleop_controller script to /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/lib/lidar_slam_robot
+writing list of installed files to '/home/vboxuser/lidar_slam_ws/build/lidar_slam_robot/install.log'

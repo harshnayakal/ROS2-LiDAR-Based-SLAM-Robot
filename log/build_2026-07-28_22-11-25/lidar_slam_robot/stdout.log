@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing lidar_slam_robot.egg-info/PKG-INFO
+writing dependency_links to lidar_slam_robot.egg-info/dependency_links.txt
+writing entry points to lidar_slam_robot.egg-info/entry_points.txt
+writing requirements to lidar_slam_robot.egg-info/requires.txt
+writing top-level names to lidar_slam_robot.egg-info/top_level.txt
+reading manifest file 'lidar_slam_robot.egg-info/SOURCES.txt'
+writing manifest file 'lidar_slam_robot.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/lib/python3.10/site-packages/lidar-slam-robot.egg-link (link to .)
+Installing teleop_controller script to /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/lib/lidar_slam_robot
+
+Installed /home/vboxuser/lidar_slam_ws/build/lidar_slam_robot
+running symlink_data
+symbolically linking /home/vboxuser/lidar_slam_ws/build/lidar_slam_robot/resource/lidar_slam_robot -> /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/share/ament_index/resource_index/packages
+symbolically linking /home/vboxuser/lidar_slam_ws/build/lidar_slam_robot/package.xml -> /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/share/lidar_slam_robot
+symbolically linking /home/vboxuser/lidar_slam_ws/build/lidar_slam_robot/launch/slam.launch.py -> /home/vboxuser/lidar_slam_ws/install/lidar_slam_robot/share/lidar_slam_robot/launch
